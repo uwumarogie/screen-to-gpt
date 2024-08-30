@@ -1,0 +1,6 @@
+pyperclip
+requests
+python-dotenv
+mss
+openai
+Pillow
