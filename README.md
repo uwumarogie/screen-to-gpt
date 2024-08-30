@@ -15,7 +15,7 @@ Before you begin, make sure you have the following:
    ```bash
    git clone https://github.com/uwumarogie/screen-to-gpt.git
 
-2. **Install the virtual enviroment and dependencies**```
+2. **Install the virtual enviroment and dependencies**
    ```python
    python3 -m venv .venv
    ```
