@@ -1,6 +1,6 @@
-pyperclip
-requests
-python-dotenv
-mss
-openai
-Pillow
+pyperclip==1.9.0
+requests==2.32.3
+python-dotenv==1.1.0
+mss==10.0.0
+openai==1.61.1
+Pillow==11.1.0
