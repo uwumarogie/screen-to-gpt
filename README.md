@@ -17,10 +17,10 @@ Before you begin, make sure you have the following:
 
 2. **Install the virtual enviroment and dependencies**
    ```python
-   python3 -m venv .venv
+   python3 -m venv venv
    ```
    ```bash
-   source .venv/bin/activate
+   source venv/bin/activate
    ```
    ```python
    pip3 install -r requirements.txt
